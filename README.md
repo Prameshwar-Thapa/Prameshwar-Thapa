@@ -55,7 +55,6 @@ I'm a passionate **Cloud Solutions Architect** and **DevOps Engineer** with expe
 ![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure Virtual Desktop](https://img.shields.io/badge/Azure_Virtual_Desktop-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Virtual Machines](https://img.shields.io/badge/Azure_Virtual_Machines-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![App Services](https://img.shields.io/badge/Azure_App_Services-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Files](https://img.shields.io/badge/Azure_Files-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Virtual Networks](https://img.shields.io/badge/Azure_Virtual_Networks-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
