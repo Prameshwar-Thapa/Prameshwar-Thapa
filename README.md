@@ -83,7 +83,10 @@ I'm a passionate **Cloud Solutions Architect** and **DevOps Engineer** with expe
 
 ## 🏗️ Featured Projects
 
-### [🔄 CI/CD E-Commerce Pipeline](https://github.com/Prameshwar-Thapa/ecommerce-aws-cicd)
+### 🔄 CI/CD E-Commerce Pipeline
+
+[**Source Code**](https://github.com/Prameshwar-Thapa/ecommerce-aws-cicd)
+
 **Enterprise-grade containerized e-commerce platform with automated AWS deployment pipeline**
 
 - **Architecture**: Dockerized application + Nginx web server + ECR container registry
@@ -96,9 +99,9 @@ I'm a passionate **Cloud Solutions Architect** and **DevOps Engineer** with expe
 - ✅ Zero-downtime deployments with automated container orchestration
 - ✅ 90% reduction in deployment time through pipeline automation
 - ✅ Containerized architecture ensuring consistent deployments across environments
-- ✅ Automated testing and validation with comprehensive health checks
+- ✅ Multi-stage pipeline with automated testing and validation
 
-**Tech Stack**: `Docker` `AWS CodePipeline` `CodeBuild` `CodeDeploy` `ECR` `EC2` `GitHub Actions`
+**Tech Stack**: `AWS` `EC2` `CodePipeline` `CodeBuild` `CodeDeploy` `ECR` `Docker` `GitHub Actions`
 
 ---
 
