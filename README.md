@@ -85,7 +85,7 @@ I'm a passionate **Cloud Solutions Architect** and **DevOps Engineer** with expe
 
 ### 🔄 CI/CD E-Commerce Pipeline
 
-[**Source Code**](https://github.com/Prameshwar-Thapa/ecommerce-aws-cicd)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prameshwar-Thapa/ecommerce-aws-cicd)
 
 **Enterprise-grade containerized e-commerce platform with automated AWS deployment pipeline**
 
@@ -101,7 +101,15 @@ I'm a passionate **Cloud Solutions Architect** and **DevOps Engineer** with expe
 - ✅ Containerized architecture ensuring consistent deployments across environments
 - ✅ Multi-stage pipeline with automated testing and validation
 
-**Tech Stack**: `AWS` `EC2` `CodePipeline` `CodeBuild` `CodeDeploy` `ECR` `Docker` `GitHub Actions`
+**Tech Stack**: 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/CodePipeline-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![CodeBuild](https://img.shields.io/badge/CodeBuild-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![CodeDeploy](https://img.shields.io/badge/CodeDeploy-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
